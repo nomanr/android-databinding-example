@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Data Binding Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_simple_text">SimpleTextActivity</string>
+    <string name="activity_list_view">ListViewActivity</string>
+    <array name="movie_titles">
+        <item>The Shawshank Redemption</item>
+        <item>The Godfathere</item>
+        <item>The Godfather: Part II</item>
+        <item>The Dark Knight</item>
+        <item>12 Angry men</item>
+        <item>Schindler\'s List</item>
+        <item>Pulp Fiction</item>
+        <item>The Good, the Bad and the Ugly</item>
+        <item>The Lord of the Rings: The Return of the King</item>
+        <item>Fight Club</item>
+        <item>The Lord of the Rings: The Fellowship of the Ring</item>
+    </array>
+    <array name="movie_year">
+        <item>1994</item>
+        <item>1972</item>
+        <item>1974</item>
+        <item>2008</item>
+        <item>1957</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1966</item>
+        <item>2003</item>
+        <item>1999</item>
+        <item>2001</item>
+    </array>
+    <array name="movie_rating">
+        <item>9.2</item>
+        <item>9.2</item>
+        <item>9.0</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.8</item>
+        <item>8.8</item>
+    </array>
+
+</resources>

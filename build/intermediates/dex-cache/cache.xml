@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/classes-578980ecc7424bac954bd15f8b8634a95b0b9a3e.jar" />
+    </item>
+    <item
+        jar="/home/noman/Android/Sdk/extras/android/m2repository/com/android/databinding/adapters/1.0-rc1/adapters-1.0-rc1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a82ed058e9e709740dd89c88e1be77196a71eee">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/adapters-1.0-rc1-72df85af29855cb885ed4304212ce075a9e62c9d.jar" />
+    </item>
+    <item
+        jar="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/classes-6498214abb297d1d3aceabba1029c119c030bfc0.jar" />
+    </item>
+    <item
+        jar="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8343ce741100717e95bd5c4ad7baa4fd31b73f1b">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/classes-0a8a10fd6857bbfa08d58c02fcfa1e24b79c7d41.jar" />
+    </item>
+    <item
+        jar="/home/noman/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/1.0-rc1/3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b/baseLibrary-1.0-rc1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/baseLibrary-1.0-rc1-1cefa5fd343b9a365c9f12b3a3b9ddb6b2c9dfb6.jar" />
+    </item>
+    <item
+        jar="/home/noman/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-2b24dd48046368b244cd74f8ef1008577f7b83c2.jar" />
+    </item>
+    <item
+        jar="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/noman/AndroidStudioProjects/DataBindingExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7f1f3904bef51e45f0c1a646303c3699291e38a8.jar" />
+    </item>
+
+</items>
