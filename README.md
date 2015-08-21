@@ -4,8 +4,8 @@ This example includes how to bind data with a single view and with ListView item
 
 GetView method in listview custom adapter.
 <code>
-    @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+        @Override
+        public View getView(int position, View convertView, ViewGroup parent) {
         LayoutInflater inflater = LayoutInflater.from(context);
 
         MovieListItemBinding binding = DataBindingUtil.
@@ -16,6 +16,7 @@ GetView method in listview custom adapter.
 
         binding.setMovie(getItem(position));
         return binding.getRoot();
-    }
+        }
 </code>
+
 No need to findviewbyid and no viewholder pattern. Just that and listview will be populated. Isn't it cool? :)
